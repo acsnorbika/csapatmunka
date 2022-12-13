@@ -1,0 +1,40 @@
+*Fehér*
+	Ára 5700Ft
+	Fenomenális festék
+	Gyorsan megköt 
+	Vízálló
+*Zöld*
+	Ára 4700Ft
+	Fenomenális festék
+	Gyorsan megköt 
+	Vízálló
+*Fekete*
+	Ára 5950Ft
+	Fenomenális festék
+	Gyorsan megköt 
+	Vízálló
+*Szürke*
+	Ára 5000Ft
+	Fenomenális festék
+	Gyorsan megköt 
+	Vízálló
+*Sötétkék*
+	Ára 3990Ft
+	Fenomenális festék
+	Gyorsan megköt 
+	Vízálló
+*Narancs*
+	Ára 4900Ft
+	Fenomenális festék
+	Gyorsan megköt 
+	Vízálló
+*Világoskék*
+	Ára 4500Ft
+	Fenomenális festék
+	Gyorsan megköt 
+	Vízálló
+*Piros*
+	Ára 4640Ft
+	Fenomenális festék
+	Gyorsan megköt 
+	Vízálló
