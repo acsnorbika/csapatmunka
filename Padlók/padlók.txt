@@ -1,25 +1,25 @@
 Bükk padló
 	Fajta: bükk
-	Méret: 1100*280*30mm
-	  Ár:  20090Ft
+	Méret: 1292*192*8mm
+	  Ár:  10980Ft
 
 Cseresznye padló
 	Fajta: cseresznye
-	Méret: 1100*280*30mm
-	  Ár:  23400Ft
+	Méret: 1292*192*8mm
+	  Ár:  12080Ft
 
 Dió padló
 	Fajta: dió
-	Méret: 1100*280*30mm
-	  Ár:  21200Ft
+	Méret: 1292*192*8mm
+	  Ár:  11230Ft
 
 Mahagóni padló
 	Fajta: mahagóni
-	Méret: 1100*280*30mm
-	  Ár:  24200Ft
+	Méret: 1292*192*8mm
+	  Ár:  12590Ft
 
 Tölgy padló
 	Fajta: tölgy
-	Méret: 1100*280*30mm
-	  Ár:  19300Ft
+	Méret: 1292*192*8mm
+	  Ár:  10990Ft
 	
