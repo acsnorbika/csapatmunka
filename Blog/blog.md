@@ -8,3 +8,6 @@ Egyik barátom ajánlotta az oldalt, mivel kellett a ház felújításhoz anyag,
 Hihetetlen amilyen minőségű az alapanyag amiből dolgoznak, teljesen megbízható, felület kiváló.
 
 Henry Kettner, 24
+Én személyem és magasságom nem lett volna képes elviselni a szorgos, kitartó munkát. Még jó,
+hogy ezek az alacsony megbízható munkásemberek elérhetőek a webshop oldalán! Nagyon 
+köszönjük a 170cm belmagasságú padlásunk felparkettázását!
