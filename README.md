@@ -1,2 +1,2 @@
 # csapatmunka
-figma terv: https://files.fm/u/swfayptwb
+figma terv: [Barkacsboltterv.pdf](https://github.com/acsnorbika/csapatmunka/files/10482831/Barkacsboltterv.pdf)
