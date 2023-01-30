@@ -1,5 +1,5 @@
 body{
-    background: #614B45;
+    background: #dbbbb2;
 }
 #navbarToggleExternalContent{
         overflow: hidden;
@@ -30,6 +30,10 @@ h5{
 }
 h1{
     text-align: center;
-    background-color: #614B45;
+    background-color: #dbbbb2;
     padding:2%;
+}
+h3{
+    text-align: center;
+    padding: 2%;
 }
