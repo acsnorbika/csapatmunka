@@ -14,5 +14,7 @@ body{
     padding: 1rem;
 }
 .card{
-    border-radius: 5%;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    border-radius: 20%;
 }
