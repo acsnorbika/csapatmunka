@@ -1,0 +1,42 @@
+.body{
+    background-color: #614B45;
+}
+.basket {
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.basket-item{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.basket-item{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.item-name{
+    width: 70%;
+}
+
+.item-price{
+    width: 20%;
+    text-align: right;
+}
+.remove-item{
+    background-color: #ff3700;
+    color:aliceblue;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor:pointer;
+}
+.basket-total{
+    font-weight:bold;
+    margin-top: 20px;
+}
