@@ -2,7 +2,18 @@ body{
     font-family: Arial, sans-serif;
     background: #614B45;
 }
+#navbarToggleExternalContent{
+    overflow: hidden;
+    background-color: #333;
+}
 
+#navbarToggleExternalContent a {
+float: left;
+display: block;
+color: #ffffff;
+text-align: center;
+padding: 1rem;
+}
 .card{
     margin: 3rem;
 }
